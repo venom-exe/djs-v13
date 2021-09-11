@@ -1,42 +1,20 @@
-# Getting started with Nix
+# How To Run DJS-V13 Bot On Repl.it
+[FOLLOW THIS VIDEO TO KNOW HOW IT WORKS :)](https://www.youtube.com/c/VenomExE/)
 
-> Warning: Nix support on Replit is still under heavy development and is subject to change.
+**CHECK OUT OUR BOTS :-**</p>
+REXZ:- [INVITE ME](https://discord.com/oauth2/authorize?client_id=856741116912861276&permissions=261993005047&scope=bot)
 
-You've just created a new Nix repl. There's not much here yet but with a little work you can use it as the starting point for *ANYTHING*.
+LEGION:- [INVITE ME](https://discord.com/oauth2/authorize?client_id=843638969639239711&permissions=261993005047&scope=bot)
 
-To get started there are 2 config files that you can use to customize the environment. To show them click the 3 dots menu button in the file tree and then click "Show config files".
+MR. BINNER:- [INVITE ME](https://discord.com/oauth2/authorize?client_id=878935393360293908&permissions=261993005047&scope=bot)
 
-* `replit.nix` - Configures the nix environment
+ROSE:- [INVITE ME](https://discord.com/oauth2/authorize?client_id=879589599062679552&permissions=261993005047&scope=bot)
 
-This file should look something like the example below. The `deps` array specifies which Nix packages you would like to be available in your environment. You can search for Nix packages here: https://search.nixos.org/packages
+ULTRON:- [INVITE ME](https://discord.com/oauth2/authorize?client_id=782555605076279316&permissions=261993005047&scope=bot)
 
-\```
-{ pkgs }: {
-	deps = [
-		pkgs.cowsay
-		pkgs.zig
-	];
-}
-\```
+## CHECK OUT OUR SOCIAL NETWORKS
 
-* `.replit` - Configures the run command
-
-The run command in this file should look something like this. You can use any binary made available by your `replit.nix` file in this run command.
-
-\```
-run = "cowsay Welcome to nix on Replit!"
-\```
-
-Once both those files are configured and you add files for your language, you can run you repl like normal, with the run button.
-
-Both the Console and Shell will pick up changes made to your `replit.nix` file. However, once you open the Shell tab, the environment will not update until you run `exit`. This will close out the existing `shell` process and start a new one that includes any changes that you made to your `replit.nix` file.
-
-## Learn More About Nix
-
-If you'd like to learn more about Nix, here are some great resources:
-
-* [Getting started with Nix](https://docs.replit.com/programming-ide/getting-started-nix) - How to use Nix on Replit
-* [Nix Pills](https://nixos.org/guides/nix-pills/) - Guided introduction to Nix
-* [Nixology](https://www.youtube.com/playlist?list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs) - A series of videos introducing Nix in a practical way
-* [Nix Package Manager Guide](https://nixos.org/manual/nix/stable/) - A comprehensive guide of the Nix Package Manager
-* [A tour of Nix](https://nixcloud.io/tour) - Learn the nix language itself
+* [DISCORD](https://discord.gg/cuBErWDy68) - DISCORD SUPPORT SERVER
+* [DISCORD COMMUNITY](https://discord.gg/DJRUcDHCKv) - DISCORD COMMUNITY/CHILL SERVER
+* [YOUTUBE](https://www.youtube.com/c/VenomExE/) - MY YOUTUBE CHANNEL
+* [INSTAGRAM](https://instagram.com/itz_me_venomop) - MY INSTAGRAM PROFILE
